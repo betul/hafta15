@@ -6,8 +6,8 @@ function Sablon() {
             <header className="container-fluid bg-dark">
                 <nav className="navbar navbar-expand-lg navbar-dark">
                     <Link className="navbar-brand" to="/">Ana Ekran</Link>
-                    <Link className="navbar-brand" to="/blog">Blog Ekrani</Link>
-                    <Link className="navbar-brand" to="/iletisim">Iletisim Ekrani</Link>
+                    <Link className="navbar-brand" to="/blogs">Blog Ekrani</Link>
+                    <Link className="navbar-brand" to="/contact">Iletisim Ekrani</Link>
 
                 </nav>
             </header>
